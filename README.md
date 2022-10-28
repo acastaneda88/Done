@@ -13,7 +13,7 @@ _A continuación parte de las herramientas y tecnologías utilizadas._
 [![Bootstrap Follow](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)](#)
 
 
-![Maquetado](https://github.com/iwill88/Saint-Petersburg_Website/blob/main/Saint-Petersburg_Website.jpg)
+![Maquetado](https://github.com/iwill88/Saint-Petersburg_Website/blob/master/imagenes/Saint-Petersburg_Website.jpg)
 
 ## Muchas gracias por tomarte el tiempo en revisar mi trabajo! 🎁
 
